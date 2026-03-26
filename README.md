@@ -1,79 +1,114 @@
-# Hi, I'm Tom 👋
+<!-- Header / Intro -->
+<h1 align="center">Hi, I'm Tom 👋</h1>
 
-Platform Engineer @ NS 🚆  
-Co-founder @ EventRebel 🚀  
-Based in the Netherlands 🇳🇱  
+<p align="center">
+  <b>Platform Engineer @ NS 🚆 · Co‑founder @ EventRebel 🚀</b><br>
+  Based in the Netherlands 🇳🇱
+</p>
+
+<p align="center">
+  <a href="https://eventrebel.nl" target="_blank">🌐 eventrebel.nl</a> •
+  <a href="https://www.linkedin.com/in/JE-LINK-HIER" target="_blank">💼 LinkedIn</a> •
+  <a href="mailto:JE-EMAIL-HIER">📧 Email</a>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a software developer with a strong focus on **clean architecture**, **scalable systems**, and building products that actually solve real problems.
+I'm a software engineer with a strong focus on:
 
-Alongside my job, I’m building **EventRebel**, where we help foodtrucks grow through smarter lead generation and marketing.
+- **Clean architecture**
+- **Scalable, maintainable systems**
+- **Products that solve real problems**
 
-I like keeping things simple, efficient, and maintainable.  
-Less noise, more impact.
+Alongside my role as Platform Engineer at **NS**, I’m co‑founding **EventRebel**, where we help foodtrucks grow through smarter lead generation and marketing automation.
+
+I like keeping things:
+
+- **Simple** – no unnecessary complexity  
+- **Efficient** – respect for time & resources  
+- **Maintainable** – future‑proof over quick hacks  
+
+> Less noise. More impact.
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Backend**
-- PHP (Laravel)
-- MySQL / SQL
-- REST APIs
+### 🛠 Backend
 
-**Frontend**
+- PHP (**Laravel**)
+- MySQL / SQL
+- RESTful APIs
+- Application & domain architecture
+
+### 🎨 Frontend
+
 - React
 - Tailwind CSS
-- Blade
+- Blade (Laravel)
 
-**Tools & Other**
+### 🧰 Tools & Platform
+
 - Docker
-- Git
+- Git & GitHub
 - AWS
 - Linux
+- CI/CD & deployment pipelines
 
 ---
 
 ## 🚀 Current Focus
 
 - Building and scaling **EventRebel**
-- Improving email deliverability & lead quality
-- Writing clean, testable backend architecture
-- Leveling up as a developer (daily learning mindset)
+- Improving **email deliverability** & **lead quality**
+- Designing **clean, testable backend architectures**
+- Daily iteration: learning, refactoring, and refining
 
 ---
 
 ## 📈 What I Care About
 
-- Clean code > quick hacks  
-- Long-term thinking > short-term wins  
-- Real value > vanity metrics  
+- **Clean code** > quick hacks  
+- **Long‑term thinking** > short‑term wins  
+- **Real value** > vanity metrics  
+- **Simple solutions** > clever complexity  
 
 ---
 
 ## 🧩 Projects
 
 ### 🚀 EventRebel
-Platform for connecting foodtrucks with events  
-→ Lead generation, email campaigns & tooling
 
-*(More coming soon…)*
+> Platform for connecting foodtrucks with events.
+
+**What it does**
+
+- Lead generation for foodtrucks  
+- Email campaigns & follow‑ups  
+- Tooling to streamline sales processes
+
+**Tech snapshot**
+
+- Laravel backend  
+- React + Tailwind frontend  
+- Email infrastructure & deliverability tuning  
+
+*(More projects and details coming soon…)*
 
 ---
 
 ## 📫 Contact
 
-- 💼 LinkedIn: *(add your link here)*
-- 📧 Email: *(add your email here)*
-- 🌐 Website: https://eventrebel.nl
+- 💼 LinkedIn: [add your link here](https://www.linkedin.com/in/JE-LINK-HIER)
+- 📧 Email: [add your email here](mailto:JE-EMAIL-HIER)
+- 🌐 Website: [https://eventrebel.nl](https://eventrebel.nl)
 
 ---
 
 ## ⚡ Fun Fact
 
-I believe the best products come from **simplicity + consistency**.
+I believe the best products come from a mix of **simplicity, consistency, and a bit of stubbornness** about quality.
 
 ---
