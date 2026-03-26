@@ -3,7 +3,7 @@
 
 <p align="center">
   <b>Platform Engineer @ NS 🚆 · Co‑founder @ EventRebel 🚀</b><br>
-  Based in the Netherlands 🇳🇱
+  Based in Breda, the Netherlands 🇳🇱
 </p>
 
 <p align="center">
@@ -99,9 +99,11 @@ I like keeping things:
 
 ## 📫 Contact
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/tmsmits)
-- 📧 Email: (mailto:tmsmits@gmail.com)
-- 🌐 Website: (https://tomsmits.nl)
+<p align="center">
+  <a href="https://tomsmits.nl" target="_blank">🌐 tomsmits.nl</a> •
+  <a href="https://www.linkedin.com/in/tmsmits" target="_blank">💼 LinkedIn</a> •
+  <a href="mailto:tmsmits@gmail.com">📧 Email</a>
+</p>
 
 ---
 
