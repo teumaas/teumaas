@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://eventrebel.nl" target="_blank">🌐 eventrebel.nl</a> •
-  <a href="https://www.linkedin.com/in/JE-LINK-HIER" target="_blank">💼 LinkedIn</a> •
-  <a href="mailto:JE-EMAIL-HIER">📧 Email</a>
+  <a href="https://tomsmits.nl" target="_blank">🌐 tomsmits.nl</a> •
+  <a href="https://www.linkedin.com/in/tmsmits" target="_blank">💼 LinkedIn</a> •
+  <a href="mailto:tmsmits@gmail.com">📧 Email</a>
 </p>
 
 ---
@@ -18,11 +18,11 @@
 
 I'm a software engineer with a strong focus on:
 
-- **Clean architecture**
+- **Clean architecture/Layered architecture**
 - **Scalable, maintainable systems**
 - **Products that solve real problems**
 
-Alongside my role as Platform Engineer at **NS**, I’m co‑founding **EventRebel**, where we help foodtrucks grow through smarter lead generation and marketing automation.
+Alongside my role as Platform Engineer at **NSGo**, I’m co‑founding **EventRebel**, where we help foodtrucks grow through smarter lead generation and marketing automation.
 
 I like keeping things:
 
@@ -53,8 +53,6 @@ I like keeping things:
 
 - Docker
 - Git & GitHub
-- AWS
-- Linux
 - CI/CD & deployment pipelines
 
 ---
@@ -101,9 +99,9 @@ I like keeping things:
 
 ## 📫 Contact
 
-- 💼 LinkedIn: [add your link here](https://www.linkedin.com/in/JE-LINK-HIER)
-- 📧 Email: [add your email here](mailto:JE-EMAIL-HIER)
-- 🌐 Website: [https://eventrebel.nl](https://eventrebel.nl)
+- 💼 LinkedIn: [add your link here](https://www.linkedin.com/in/tmsmits)
+- 📧 Email: [add your email here](mailto:tmsmits@gmail.com)
+- 🌐 Website: [https://tomsmiys.nl](https://tomsmits.nl)
 
 ---
 
