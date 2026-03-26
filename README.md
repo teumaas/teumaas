@@ -98,12 +98,9 @@ I like keeping things:
 ---
 
 ## 📫 Contact
-
-<p align="center">
-  <a href="https://tomsmits.nl" target="_blank">🌐 tomsmits.nl</a> •
-  <a href="https://www.linkedin.com/in/tmsmits" target="_blank">💼 LinkedIn</a> •
+  <a href="https://tomsmits.nl" target="_blank">🌐 tomsmits.nl</a>
+  <a href="https://www.linkedin.com/in/tmsmits" target="_blank">💼 LinkedIn</a>
   <a href="mailto:tmsmits@gmail.com">📧 Email</a>
-</p>
 
 ---
 
