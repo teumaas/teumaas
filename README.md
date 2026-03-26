@@ -99,9 +99,9 @@ I like keeping things:
 
 ## 📫 Contact
 
-- 💼 LinkedIn: [add your link here](https://www.linkedin.com/in/tmsmits)
-- 📧 Email: [add your email here](mailto:tmsmits@gmail.com)
-- 🌐 Website: [https://tomsmiys.nl](https://tomsmits.nl)
+- 💼 LinkedIn: (https://www.linkedin.com/in/tmsmits)
+- 📧 Email: (mailto:tmsmits@gmail.com)
+- 🌐 Website: (https://tomsmits.nl)
 
 ---
 
