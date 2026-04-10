@@ -2,12 +2,12 @@
 <h1 align="center">Hi, I'm Tom 👋</h1>
 
 <p align="center">
-  <b>Platform Engineer @ NS Go 🚆 · Co‑founder @ EventRebel 🚀</b><br>
-  Based in Breda, the Netherlands 🇳🇱
+  <b>Platform Engineer @ NS Go 🚆 · Co-founder @ EventRebel 🚀</b><br>
+  Breda, The Netherlands 🇳🇱
 </p>
 
 <p align="center">
-  <a href="https://tomsmits.nl" target="_blank">🌐 tomsmits.nl</a> •
+  <a href="https://tomsmits.nl" target="_blank">🌐 Website</a> •
   <a href="https://www.linkedin.com/in/tmsmits" target="_blank">💼 LinkedIn</a> •
   <a href="mailto:tmsmits@gmail.com">📧 Email</a>
 </p>
@@ -16,96 +16,50 @@
 
 ## 🧠 About Me
 
-I'm a software engineer with a strong focus on:
+I’m a software developer who likes to keep things simple and clean.
 
-- **Clean architecture/Layered architecture**
-- **Scalable, maintainable systems**
-- **Products that solve real problems**
+I work as a Platform Engineer at **NS Go**, and alongside that I’m building **EventRebel** together with a friend — where we help foodtrucks get more bookings through lead generation and email.
 
-Alongside my role as Platform Engineer at **NSGo**, I’m co‑founding **EventRebel**, where we help foodtrucks grow through smarter lead generation and marketing automation.
+I don’t like overcomplicated systems. I’d rather build something that:
 
-I like keeping things:
+- just works  
+- is easy to understand  
+- and is still maintainable a year later  
 
-- **Simple** – no unnecessary complexity  
-- **Efficient** – respect for time & resources  
-- **Maintainable** – future‑proof over quick hacks  
-
-> Less noise. More impact.
+> Less is more.
 
 ---
 
 ## ⚙️ Tech Stack
 
 ### 🛠 Backend
-
-- PHP (**Laravel**)
+- PHP (Laravel)
 - MySQL / SQL
-- RESTful APIs
-- Application & domain architecture
+- REST APIs
+- Layered architecture
 
 ### 🎨 Frontend
-
 - React
 - Tailwind CSS
-- Blade (Laravel)
+- Blade
 
-### 🧰 Tools & Platform
-
+### 🧰 Tools
 - Docker
 - Git & GitHub
-- CI/CD & deployment pipelines
-
----
-
-## 🚀 Current Focus
-
-- Building and scaling **EventRebel**
-- Improving **email deliverability** & **lead quality**
-- Designing **clean, testable backend architectures**
-- Daily iteration: learning, refactoring, and refining
-
----
-
-## 📈 What I Care About
-
-- **Clean code** > quick hacks  
-- **Long‑term thinking** > short‑term wins  
-- **Real value** > vanity metrics  
-- **Simple solutions** > clever complexity  
-
----
-
-## 🧩 Projects
-
-### 🚀 EventRebel
-
-> Platform for connecting foodtrucks with events.
-
-**What it does**
-
-- Lead generation for foodtrucks  
-- Email campaigns & follow‑ups  
-- Tooling to streamline sales processes
-
-**Tech snapshot**
-
-- Laravel backend  
-- React + Tailwind frontend  
-- Email infrastructure & deliverability tuning  
-
-*(More projects and details coming soon…)*
+- CI/CD
 
 ---
 
 ## 📫 Contact
-  <a href="https://tomsmits.nl" target="_blank">🌐 tomsmits.nl</a>
-  <a href="https://www.linkedin.com/in/tmsmits" target="_blank">💼 LinkedIn</a>
+
+<p>
+  <a href="https://tomsmits.nl" target="_blank">🌐 Website</a><br>
+  <a href="https://www.linkedin.com/in/tmsmits" target="_blank">💼 LinkedIn</a><br>
   <a href="mailto:tmsmits@gmail.com">📧 Email</a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
-I believe the best products come from a mix of **simplicity, consistency, and a bit of stubbornness** about quality.
-
----
+I tend to overthink things sometimes, but it usually leads to better solutions in the long run.
