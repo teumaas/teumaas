@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Tom 👋</h1>
 
 <p align="center">
-  <b>Platform Engineer @ NS 🚆 · Co‑founder @ EventRebel 🚀</b><br>
+  <b>Platform Engineer @ NS Go 🚆 · Co‑founder @ EventRebel 🚀</b><br>
   Based in Breda, the Netherlands 🇳🇱
 </p>
 
