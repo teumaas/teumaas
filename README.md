@@ -34,7 +34,7 @@
 
 I’m a software developer who likes to keep things simple and clean.
 
-I work as a Platform Engineer at <strong>NS Go</strong>, and alongside that I’m building an new platform together with a friend, where we help foodtrucks get more bookings through lead generation and email.
+I work as a Platform Engineer at <strong>NS Go</strong>, and alongside that I’m building an new platform together with a friend, where we help people find housing.
 
 I don’t like overcomplicated systems. I’d rather build something that:
 
