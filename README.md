@@ -6,6 +6,8 @@
   Platform Engineer @ NS Go 🚂
 </p>
 
+![Spotify status](https://tomsmits.nl/spotify/spotify.png)
+
 <p align="center">
   <a href="https://tomsmits.nl" target="_blank">
     <img src="https://img.shields.io/badge/Website-tomsmits.nl-111?style=for-the-badge&logo=google-chrome&logoColor=white" />
