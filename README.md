@@ -1,7 +1,4 @@
 <!-- Header -->
-<p align="center">
-  <img src="https://tomsmits.nl/spotify/spotify.svg" alt="Spotify status" />
-</p>
 
 <h1 align="center">Hi, I'm Tom 👋</h1>
 
@@ -33,7 +30,12 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://tomsmits.nl/spotify/spotify.svg" alt="Spotify status" />
+</p>
 
+
+---
 ## 🧠 About Me
 
 I’m a software developer who likes to keep things simple and clean.
