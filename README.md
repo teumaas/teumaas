@@ -6,7 +6,7 @@
   Platform Engineer @ NS Go 🚂
 </p>
 
-![Spotify status](https://tomsmits.nl/spotify/spotify.png)
+![Spotify status](https://tomsmits.nl/spotify/spotify.svg)
 
 <p align="center">
   <a href="https://tomsmits.nl" target="_blank">
