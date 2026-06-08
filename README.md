@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-   ![Spotify status](https://tomsmits.nl/spotify/spotify.svg)
+  <img src="https://tomsmits.nl/spotify/spotify.svg" alt="Spotify status" />
 </p>
 
 <h1 align="center">Hi, I'm Tom 👋</h1>
