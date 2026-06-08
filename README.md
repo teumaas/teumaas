@@ -1,12 +1,14 @@
 <!-- Header -->
+<p align="center">
+   ![Spotify status](https://tomsmits.nl/spotify/spotify.svg)
+</p>
+
 <h1 align="center">Hi, I'm Tom 👋</h1>
 
 <p align="center">
   <img src="https://app.nsgo.nl/themes/nsgo/logo.png" height="16" style="vertical-align: -2px;" />
   Platform Engineer @ NS Go 🚂
 </p>
-
-![Spotify status](https://tomsmits.nl/spotify/spotify.svg)
 
 <p align="center">
   <a href="https://tomsmits.nl" target="_blank">
