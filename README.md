@@ -40,8 +40,6 @@
 
 <div align="center">
 
-## 🎧 Currently Listening
-
 <img src="https://tomsmits.nl/spotify/spotify.svg" alt="Spotify status" />
 
 </div>
