@@ -1,113 +1,137 @@
-<!-- Header -->
+<!-- Profile README -->
 
-<h1 align="center">Hi, I'm Tom 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://app.nsgo.nl/themes/nsgo/logo.png" height="16" style="vertical-align: -2px;" />
-  Platform Engineer @ NS Go 🚂
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:0A66C2&height=190&section=header&text=Tom%20Smits&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Platform%20Engineer%20%40%20NS%20Go&descAlignY=58&descSize=17" />
+
+</div>
+
+<div align="center">
+
+### I build clean, practical and maintainable software.
+
+<p>
+  <img src="https://app.nsgo.nl/themes/nsgo/logo.png" height="18" style="vertical-align: -3px;" />
+  <strong>Platform Engineer @ NS Go</strong> 🚂
 </p>
 
-<p align="center">
-  <a href="https://tomsmits.nl" target="_blank">
-    <img src="https://img.shields.io/badge/Website-tomsmits.nl-111?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/tmsmits" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Tom%20Smits-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:tmsmits@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tmsmits%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-Laravel-777BB4?logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Styling-Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-</p>
+<a href="https://tomsmits.nl" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-tomsmits.nl-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/tmsmits" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Tom%20Smits-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:tmsmits@gmail.com">
+  <img src="https://img.shields.io/badge/Email-tmsmits%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=tmsmits&style=flat-square&color=0A66C2" alt="Profile views" />
+
+</div>
 
 ---
-<p align="center">
-  <img src="https://tomsmits.nl/spotify/spotify.svg" alt="Spotify status" />
-</p>
 
+<div align="center">
+
+## 🎧 Currently Listening
+
+<img src="https://tomsmits.nl/spotify/spotify.svg" alt="Spotify status" />
+
+</div>
 
 ---
+
 ## 🧠 About Me
 
-I’m a software developer who likes to keep things simple and clean.
+I’m a software developer who likes to keep things **simple, clean and useful**.
 
-I work as a Platform Engineer at <strong>NS Go</strong>, and alongside that I’m building an new platform together with a friend, where we help people find housing.
+At **NS Go**, I work as a **Platform Engineer**, focusing on backend systems, internal tooling and platform improvements.
 
-I don’t like overcomplicated systems. I’d rather build something that:
+Next to that, I’m building a new housing platform together with a friend, where we help people find housing more easily.
 
-- just works  
-- is easy to understand  
-- is still maintainable a year later  
+I don’t like overcomplicated systems. I prefer software that:
 
-<p align="center"><em>Less is more.</em></p>
+- just works
+- is easy to understand
+- is reliable in production
+- is pleasant to maintain
+- still makes sense a year later
+
+<div align="center">
+
+> **Less is more.**
+
+</div>
 
 ---
 
 ## ⚙️ Tech Stack
 
+<div align="center">
+
+### Main technologies I work with
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,tailwind,html,css,mysql,docker,git,github,githubactions,linux,vscode" alt="Tech stack icons" />
+
+</div>
+
+<br />
+
 <table>
   <tr>
-    <td valign="top" width="33%">
+    <td align="center" width="33%">
       <h3>🛠 Backend</h3>
-      <ul>
-        <li>PHP (Laravel)</li>
-        <li>MySQL / SQL</li>
-        <li>REST APIs</li>
-        <li>Layered architecture</li>
-      </ul>
+      <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis" alt="Backend icons" />
+      <br />
+      <br />
+      <strong>PHP · Laravel · SQL · REST APIs</strong>
+      <br />
+      <br />
+      <sub>
+        Building reliable backend systems, APIs and platform tooling with clean and maintainable architecture.
+      </sub>
     </td>
-    <td valign="top" width="33%">
+    <td align="center" width="33%">
       <h3>🎨 Frontend</h3>
-      <ul>
-        <li>React</li>
-        <li>Tailwind CSS</li>
-        <li>Blade</li>
-      </ul>
+      <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css" alt="Frontend icons" />
+      <br />
+      <br />
+      <strong>React · TypeScript · Tailwind · Blade</strong>
+      <br />
+      <br />
+      <sub>
+        Creating clean, responsive and practical interfaces with a focus on usability and simplicity.
+      </sub>
     </td>
-    <td valign="top" width="33%">
+    <td align="center" width="33%">
       <h3>🧰 Tools</h3>
-      <ul>
-        <li>Docker</li>
-        <li>Git & GitHub</li>
-        <li>CI/CD</li>
-      </ul>
+      <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode" alt="Tools icons" />
+      <br />
+      <br />
+      <strong>Docker · Git · GitHub · CI/CD · Linux</strong>
+      <br />
+      <br />
+      <sub>
+        Working with modern development workflows, automation, containers and clean delivery pipelines.
+      </sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📫 Contact
+## 🧩 What I Like To Build
 
-<p align="center">
-  <a href="https://tomsmits.nl" target="_blank">
-    <img src="https://img.shields.io/badge/Website-tomsmits.nl-111?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/tmsmits" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Tom%20Smits-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:tmsmits@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tmsmits%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>Feel free to reach out — always open for interesting conversations.</sub>
-</p>
-
----
-
-## ⚡ Fun Fact
-
-I tend to overthink things sometimes, but that usually leads to better solutions in the long run.
+```txt
+Clear code.
+Useful products.
+Maintainable solutions.
