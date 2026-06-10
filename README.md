@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img src="https://tomsmits.nl/spotify/spotify.svg" alt="Spotify status" />
+![Spotify](https://tomsmits.nl/spotify.svg?v=1)
 
 </div>
 
