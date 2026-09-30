@@ -40,7 +40,7 @@
 
 <div align="center">
 
-![Spotify](https://tomsmits.nl/spotify/spotify.svg?v=1790756947)
+![Spotify](https://tomsmits.nl/spotify/spotify.svg?v=1790780989)
 
 </div>
 
